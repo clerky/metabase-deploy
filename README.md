@@ -1,3 +1,5 @@
+Version 0.37.0.2
+
 [![Metabase Logo](http://www.metabase.com/images/logo.svg)](http://www.metabase.com/)
 
 [Metabase](http://www.metabase.com/) is the easy, open source way for everyone in your company to ask questions and learn from data.
