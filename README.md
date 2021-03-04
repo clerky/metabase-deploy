@@ -1,4 +1,4 @@
-Version 0.37.8
+Version 0.38.1
 
 [![Metabase Logo](http://www.metabase.com/images/logo.svg)](http://www.metabase.com/)
 
